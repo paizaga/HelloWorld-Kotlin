@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/paizaga/HelloWorld-Kotlin/blob/bf05ec057879fce3e9c318d1d15a944a8a1f36bb/ezgif-3-d4f2df3d63.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [ezgif](http://www.ezgif.com/).  
 
